@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luau.Net-DLL", "Luau.Net-DLL\Luau.Net-DLL.csproj", "{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Debug|x64.ActiveCfg = Debug|x64
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Debug|x64.Build.0 = Debug|x64
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Debug|x86.ActiveCfg = Debug|x86
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Debug|x86.Build.0 = Debug|x86
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Release|x64.ActiveCfg = Release|x64
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Release|x64.Build.0 = Release|x64
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Release|x86.ActiveCfg = Release|x86
+		{A7AB4634-83B2-4EF9-9E2F-F2900D8FC663}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623DE280-FB4B-48D1-9295-308FC214E342}
+	EndGlobalSection
+EndGlobal
